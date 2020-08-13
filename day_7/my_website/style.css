@@ -1,0 +1,67 @@
+  body {
+    background: url("https://images.unsplash.com/photo-1496309732348-3627f3f040ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+    background-size: cover;
+    background-position: center;
+    color: black;
+  }
+  h1 {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+  }
+
+  .P2 {
+      font-size: 14px;
+      font-family: 'Montserrat', sans-serif;
+      background-color: #233b3c;
+      text-align: center;
+      overflow-wrap: anywhere;
+      opacity: 0.7;
+      padding: 30px;
+      margin: auto;
+      color: white;
+      width: 400px;
+    }
+
+  h2 {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+  }
+
+  .Kelsie-Photo {
+    border-radius: 50%;
+    border-width: 100px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: white;
+  }
+
+  .list-item {
+    color: white;
+    text-align: center;
+    list-style-type: none;
+  }
+
+  .list {
+    text-align: center;
+    list-style-type: none;
+  }
+
+  .form {
+    width: 100%;
+    margin: 20px;
+    text-align: center;
+  }
+
+.submit {
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: red;
+  color: white;
+  padding: 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
